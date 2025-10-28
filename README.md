@@ -245,6 +245,3 @@ App 內提供完整圖文教學，5 分鐘完成：
 
 EMAIL: wufeng.chiang@gmail.com
 
----
-
-**字數：3,987 字**
